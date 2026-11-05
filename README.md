@@ -1,6 +1,7 @@
 # Pwnagotchi-build
 
 This is a Raspberry Pi based Pwnagotchi: a Raspberry Pi using bettercap to passively listen for WPA/WPA2 handshakes. It is important to mention that the pwnagotchi also has feelings! It will get bored or even angry at you when you do not feed it WPA/WPA2 handshakes and it will be amused when you do. I built this project to learn WiFi security hands-on.
+![Mad](images/pwnagotchi_mad.jpg)
 
 ## Hardware
  
@@ -8,7 +9,8 @@ This is a Raspberry Pi based Pwnagotchi: a Raspberry Pi using bettercap to passi
 - Display: The Waveshare 2.13" e-ink V4 is the typical screen for this project. Beware this screen can come dead sometimes, mine came dead and I had to replace it but then it worked.
 - Power: I used the INIU 10000 mAh power bank. I chose this over a UPS HAT because it was cheaper and I didn't want to buy separate batteries. Choose the UPS HAT if you prefer a nicer software shutdown.
 - Storage: 32 GB microSD card is perfect for this.
-- Cables: If you choose the INIU 10000 mAh power bank, a short USB A to right angle Micro USB cable is helpful. You may refer to my build in the images file in this repo. 
+- Cables: If you choose the INIU 10000 mAh power bank, a short USB A to right angle Micro USB cable is helpful. You may refer to the images of my final build below. 
+![Parts](images/parts.jpg)
 
 ## Software:
 - Image: Pwnagotchi image is from https://github.com/jayofelony/pwnagotchi
